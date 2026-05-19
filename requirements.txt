@@ -1,0 +1,9 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+pydantic==2.7.1
+requests==2.32.2
+Pillow==10.3.0
+# Phase 2 extras (uncomment when ready)
+# librosa==0.10.1
+# openai-whisper==20231117   # for subtitle generation
